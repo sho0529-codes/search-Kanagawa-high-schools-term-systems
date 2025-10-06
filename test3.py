@@ -1,4 +1,5 @@
 # これ（https://qiita.com/Octoparse_Japan/items/902f336d1b328eb38dbf）参考にする
+# なにかエラーでwikipediaに入れないっぽい？（Please set a user-agent and respect our robot policy https://w.wiki/4wJS. See also T400119.）たぶん何かしらのセキュリティに引っかかってる
 
 import requests
 from bs4 import BeautifulSoup
